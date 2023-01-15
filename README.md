@@ -44,7 +44,7 @@
 # 安装
 
 ```bash
-pip install nonebot_plugin_bilibili_yuan
+pip install nonebot-plugin-bilibili-yuan
 ```
 
 
