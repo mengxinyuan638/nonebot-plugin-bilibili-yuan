@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "nonebot-plugin-bilibili-yuan"
+version = "0.1.0"
+description = "一个基于nonebot的哔哩哔哩登录插件"
+authors = ["mengxinyuan <1648576390@qq.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "nonebot_plugin_bilibili_yuan"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+httpx = "0.23.0"
+Pillow = "9.3.0"
+qrcode = "7.3.1"
+nonebot2 = "2.0.0rc1"
+nonebot-adapter-onebot = "2.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
