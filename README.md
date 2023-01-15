@@ -2,11 +2,11 @@
   <a href="https://v2.nonebot.dev/"><img src="https://zsy.juncikeji.xyz/i/img/mxy.png" width="150" height="150" alt="API管理系统"></a>
 </p>
 <div align="center">
-    <h1 align="center">✨原神公告</h1>
+    <h1 align="center">✨哔哩哔哩登录</h1>
 </div>
 <p align="center">
 <!-- 插件名称 -->
-<img src="https://img.shields.io/badge/插件名称-原神公告-blue" alt="python">
+<img src="https://img.shields.io/badge/插件名称-哔哩哔哩登录-blue" alt="python">
 <!-- 插件名称 -->
 <img src="https://img.shields.io/badge/Python-3.8+-blue" alt="python">
 <a style="margin-inline:5px" target="_blank" href="http://blog.juncikeji.xyz/">
@@ -66,29 +66,29 @@ nonebot.load_plugin("nonebot_plugin_bilibili_yuan")
 
 ## 返回：菜单列表
 
-![](D:\Blog\文章\文章图片\README\bili_menu.png)
+![](https://zsy.juncikeji.xyz/i/img/bili_menu.png)
 
 ## 命令2：申请哔哩登录
 
 ## 返回：
 
-![](D:\Blog\文章\文章图片\README\bili_login_qrcode.png)
+![](https://zsy.juncikeji.xyz/i/img/bili_login_qrcode.png)
 
 
 
 ## 扫描成功and登录成功提示
 
-![](D:\Blog\文章\文章图片\README\bili_check.png)
+![](https://zsy.juncikeji.xyz/i/img/bili_check.png)
 
 ## 二维码失效提示
 
-![](D:\Blog\文章\文章图片\README\bili_no.png)
+![](https://zsy.juncikeji.xyz/i/img/bili_no.png)
 
 ## 命令3：哔哩个人信息
 
 返回：
 
-![](D:\Blog\文章\文章图片\README\bili_data_person.png)
+![](https://zsy.juncikeji.xyz/i/img/bili_data_person.png)
 
 
 
