@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://v2.nonebot.dev/"><img src="https://zsy.juncikeji.xyz/i/img/mxy.png" width="150" height="150" alt="API管理系统"></a>
+  <a href="https://v2.nonebot.dev/"><img src="https://zsy.mxycn.cn/i/img/mxy.png" width="150" height="150" alt="API管理系统"></a>
 </p>
 <div align="center">
     <h1 align="center">✨哔哩哔哩登录</h1>
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/插件名称-哔哩哔哩登录-blue" alt="python">
 <!-- 插件名称 -->
 <img src="https://img.shields.io/badge/Python-3.8+-blue" alt="python">
-<a style="margin-inline:5px" target="_blank" href="http://blog.juncikeji.xyz/">
+<a style="margin-inline:5px" target="_blank" href="http://blog.mxycn.cn/">
 	<img src="https://img.shields.io/badge/Blog-个人博客-FDE6E0?style=flat&logo=Blogger" title="萌新源的小窝">
 </a>
 <a style="margin-inline:5px" target="_blank" href="https://github.com/mengxinyuan638/mxy-api-system">
@@ -19,7 +19,7 @@
 	<img src="https://img.shields.io/badge/gitee-萌新源API管理系统-FDE6E0?style=flat&logo=gitee" title="萌新源API管理系统">
 </a>
 <!-- 萌新源API -->
-<a style="margin-inline:5px" target="_blank" href="https://api.juncikeji.xyz/">
+<a style="margin-inline:5px" target="_blank" href="https://api.mxycn.cn/">
 	<img src="https://img.shields.io/badge/API-萌新源-blue?style=flat&logo=PHP" title="萌新源API">
 </a>
 <!-- CSDN博客 -->
@@ -66,29 +66,29 @@ nonebot.load_plugin("nonebot_plugin_bilibili_yuan")
 
 ## 返回：菜单列表
 
-![](https://zsy.juncikeji.xyz/i/img/bili_menu.png)
+![](https://zsy.mxycn.cn/i/img/bili_menu.png)
 
 ## 命令2：申请哔哩登录
 
 ## 返回：
 
-![](https://zsy.juncikeji.xyz/i/img/bili_login_qrcode.png)
+![](https://zsy.mxycn.cn/i/img/bili_login_qrcode.png)
 
 
 
 ## 扫描成功and登录成功提示
 
-![](https://zsy.juncikeji.xyz/i/img/bili_check.png)
+![](https://zsy.mxycn.cn/i/img/bili_check.png)
 
 ## 二维码失效提示
 
-![](https://zsy.juncikeji.xyz/i/img/bili_no.png)
+![](https://zsy.mxycn.cn/i/img/bili_no.png)
 
 ## 命令3：哔哩个人信息
 
 返回：
 
-![](https://zsy.juncikeji.xyz/i/img/bili_data_person.png)
+![](https://zsy.mxycn.cn/i/img/bili_data_person.png)
 
 
 
